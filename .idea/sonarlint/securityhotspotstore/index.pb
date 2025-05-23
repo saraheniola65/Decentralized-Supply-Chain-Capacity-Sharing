@@ -7,3 +7,5 @@ Q
 !tests/entity-verification.test.ts,6/b/6bf7f6b6710cedecd531e1b9498c8f97b41d9de1
 O
 contracts/capacity-booking.clar,4/2/42b8a9a95bb96e62fccb22977c8fddc95c5ae098
+T
+$contracts/resource-registration.clar,3/6/36af72c6e1cc7de82d7edf2117f4f32f5a7e3a3c

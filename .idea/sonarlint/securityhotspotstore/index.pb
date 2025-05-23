@@ -9,3 +9,5 @@ O
 contracts/capacity-booking.clar,4/2/42b8a9a95bb96e62fccb22977c8fddc95c5ae098
 T
 $contracts/resource-registration.clar,3/6/36af72c6e1cc7de82d7edf2117f4f32f5a7e3a3c
+I
+contracts/settlement.clar,5/d/5dfc94e4b5c277d99517176e1947f90e0fab3471
